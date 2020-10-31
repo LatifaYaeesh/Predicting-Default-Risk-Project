@@ -1,6 +1,7 @@
 # Predicting-Default-Risk-Project
 
-<h1>The Business Problem <h1/>
+<h1>The Business Problem </h1>
+
 You work for a small bank and are responsible for determining if customers are creditworthy to give a loan to. Your team typically gets 200 loan applications per week and approves them by hand.
 
 Due to a financial scandal that hit a competitive bank last week, you suddenly have an influx of new people applying for loans for your bank instead of the other bank in your city. All of a sudden you have nearly 500 loan applications to process this week!
@@ -19,7 +20,7 @@ Steps to Success
 Step 1: Business and Data Understanding
 Your project should include a description of the key business decisions that need to be made.
 
-Step 2: Explore and Cleanup the Data
+<h2> Step 2: Explore and Cleanup the Data </h2>
 To properly build the model, and select predictor variables, you need to explore and cleanup your data.
 
 Here are some guidelines to help you clean up the data:
